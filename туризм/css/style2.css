@@ -1,0 +1,120 @@
+body {
+    font-family: Roboto, sans-serif;
+    padding: 0;
+    margin: 0;
+    color: #353535;
+}
+
+header {
+	background: url('../img/3254200_large 1.png') no-repeat center top / cover;
+    height: 100vh;
+}
+
+.container {
+	width: 1160px;
+    margin: 0 auto;
+}
+
+.menu {
+	position: fixed;
+	width: 100%;
+	height: 120px;
+	background-color: rgba(0, 0, 0,.6);
+}
+.menuu {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding-top: 20px;
+}
+
+ul {
+	display: flex;
+}
+li {
+	display: block;
+	list-style-type: none; /* Убираем маркеры */
+}
+li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 38px;
+}
+
+h1 {
+	text-align: center;
+	color: #fff;
+	font-size: 84px;
+	margin: 0;
+	padding-top: 300px;
+}
+
+header p{
+	
+    color: white;
+    
+    display: block;
+    
+    
+    margin: 0px auto;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 18px;
+    margin-top: 0px;
+
+}
+
+
+
+
+
+
+
+
+footer{
+    background: url('../img/00000-e1542768565484 1.png');
+    background-size: 100%;
+    
+}
+footer p{
+    color: white;
+}
+.footer__logo {
+    margin-top: 41px;
+    margin-bottom: 115px;
+}
+.footermar{
+    height: 75px;
+}
+
+
+
+
+
+
+.Winter_blocks{
+    justify-content: center;
+    text-align: 
+    margin 0 auto;
+}
+.flexbox{
+    display: flex;
+    margin-top: 50px; 
+}
+.textos{
+    width: 500px;
+    font-size: 17px;
+    font-style: italic;
+}
+.textdo{
+ font-size: 17px;
+ font-style: italic;
+}
+.black_text{
+    font-size: 18px;
+    font-weight: bold;
+}
